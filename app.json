@@ -1,8 +1,8 @@
 {
   "configVersion": "v2",
   "app": {
-    "appId": 28962,
-    "appName": "WatchDrip+",
+    "appId": 38962,
+    "appName": "WatchDrip-mini",
     "appType": "app",
     "version": {
       "code": 1,
@@ -86,6 +86,14 @@
         {
           "name": "falcon2",
           "deviceSource": 415
+        },
+        {
+          "name": "gts4mini",
+          "deviceSource": 246
+        },
+        {
+          "name": "gts4mini2",
+          "deviceSource": 247
         }
       ],
       "designWidth": 480
